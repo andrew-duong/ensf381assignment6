@@ -8,6 +8,8 @@ body,
   font-size: 16px;
   background: url(https://www.toptal.com/designers/subtlepatterns/patterns/lightpaperfibers.png);
   display: flex;
+  margin:0;
+  padding:0;
 }
 
 .header{
